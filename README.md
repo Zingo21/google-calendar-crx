@@ -1,5 +1,7 @@
 # Google Calendar for Chrome
 
+[![Node.js CI](https://github.com/Zingo21/google-calendar-crx/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/Zingo21/google-calendar-crx/actions/workflows/node.js.yml)
+
 ## No Longer Available to Install
 
 This Chrome extension is **no longer available to install**, though the source code is available here to fork & modify.
